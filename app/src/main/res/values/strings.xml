@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Young\'s Simple Book Recorder</string>
+    <string name="home">Home</string>
+    <string name="addbook">Add Book</string>
+    <string name="bookdshelf">BookShelf</string>
+    <string name="settings">Settings</string>
+    <string name="welcome">Welcome to Young\'s Book Recorder</string>
+    <string name="msg1">You are reading </string>
+    <string name="msg2">Your next date and time for reading is</string>
+    <string name="deleteLast">Delete One</string>
+    <string name="deleteAll">Delete All</string>
+    <string name="loadRecord">Load Record</string>
+    <string name="intro">
+        \n - Description: This application has four activities.
+        First, main activity shows that current book title.
+        Second, add activity can record title, author, genre and
+        reading start time.
+        Third, report activity shows that all record data. And the user
+        can delete all data and the latest data here.
+        Fourth, about activity shows that description and book total count
+        number. And the user can make a plan
+    </string>
+    <string name="inspired">Copyright@ Y. Chung / y_chung@fanshaweonline.ca</string>
+    <string name ="author">Author:</string>
+    <string name="counter"></string>
+
+    <string name="report">Set Reading Date</string>
+    <string name="save">Save To File</string>
+    <string name="read">Read From File</string>
+    <string name="close">Close Report</string>
+    <string name="delete">Delete</string>
+
+    <string name="title">Title:</string>
+    <string name="genre">Genre:</string>
+    <string-array name="genre_array">
+        <item>Action and Adventure</item>
+        <item>Anthology</item>
+        <item>Biography</item>
+        <item>Classic</item>
+        <item>Comic and Graphic Novel</item>
+        <item>Crime and Detective</item>
+        <item>Drama</item>
+        <item>Fable</item>
+        <item>Fairy Tale</item>
+        <item>Fan-Fiction</item>
+        <item>Fantasy</item>
+        <item>Historical Fiction</item>
+        <item>Horror</item>
+        <item>Humor</item>
+        <item>Legend</item>
+        <item>Magical Realism</item>
+        <item>Mystery</item>
+        <item>Mythology</item>
+        <item>Realistic Fiction</item>
+        <item>Romance</item>
+
+        <item>Science Fiction (Sci-Fi)</item>
+        <item>Short Story</item>
+        <item>Suspense/Thriller</item>
+    </string-array>
+</resources>
